@@ -1,0 +1,7 @@
+plugins:
+  category_lock_enabled:
+    default: true
+    client: true
+  category_lock_max_trust_level:
+    default: 1
+    client: true
